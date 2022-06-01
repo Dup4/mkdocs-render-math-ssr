@@ -1,6 +1,6 @@
 {
   "name": "mkdocs-render-math-ssr",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "packageManager": "pnpm@7.1.7",
   "description": "render math ssr for mkdocs",
   "bin": "render-math.js",
