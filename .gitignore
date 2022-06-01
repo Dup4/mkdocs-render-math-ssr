@@ -1,0 +1,14 @@
+.cache
+.DS_Store
+.idea
+
+*.log
+*.tgz
+
+coverage
+lib-cov
+logs
+node_modules
+temp
+
+__snapshots__

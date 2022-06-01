@@ -1,0 +1,19 @@
+{
+  "name": "mkdocs-render-math-ssr",
+  "version": "1.0.5",
+  "packageManager": "pnpm@7.1.7",
+  "description": "render math ssr for mkdocs",
+  "bin": "render-math.js",
+  "scripts": {
+    "release": "bumpp --commit --push --tag && npm publish"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.0",
+    "escape-html": "^1.0.3",
+    "hexo-fs": "^3.1.0",
+    "jsdom": "^19.0.0",
+    "mathjax-full": "^3.2.0",
+    "yargs": "^17.3.1"
+  }
+}
