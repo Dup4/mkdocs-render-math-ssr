@@ -15,5 +15,8 @@
     "jsdom": "^19.0.0",
     "mathjax-full": "^3.2.0",
     "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "bumpp": "^7.1.1"
   }
 }
